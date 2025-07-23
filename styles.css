@@ -1,0 +1,24 @@
+.alert-text {
+    color: yellow;
+}
+.first-paragraph, .my-second-paragraph {
+    color: white;
+    background-color: blue;
+}
+.contents
+{
+    color: #1100ff;
+    color: rgb(100, 0, blue);
+    color: hsl(15, 82%, 56%);
+    font-family: "Times New Roman", serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+#title {
+    color: blue;
+}
